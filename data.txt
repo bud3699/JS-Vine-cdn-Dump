@@ -1,0 +1,113 @@
+Image dumps use internet archive
+
+https://v.cdn.vine.co/w/a001567d-assets/vendor-898677dd823f7d85fac88828283d758a.js
+
+GET /w/a001567d-assets/vendor-898677dd823f7d85fac88828283d758a.js undefined
+Host: v.cdn.vine.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://vine.co/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+
+
+
+
+https://v.cdn.vine.co/w/a001567d-assets/vine-ember-cd83453a3f52d688e17f9f362837be53.css
+
+
+GET /w/a001567d-assets/vine-ember-cd83453a3f52d688e17f9f362837be53.css undefined
+Host: v.cdn.vine.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://vine.co/
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+Priority: u=2
+
+
+
+
+
+https://v.cdn.vine.co/w/a001567d-assets/vine-ember-b37d03eca6799dd144f259fac09e6238.js
+
+
+
+GET /w/a001567d-assets/vine-ember-b37d03eca6799dd144f259fac09e6238.js undefined
+Host: v.cdn.vine.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: */*
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://vine.co/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+
+
+
+
+
+
+https://v.cdn.vine.co/w/a001567d-assets/vendor-d41d8cd98f00b204e9800998ecf8427e.css
+
+Called but contains nothing
+
+
+
+
+
+
+
+
+https://v.cdn.vine.co/w/a001567d-assets/images/loading_black-7c085c338e536db4bfda65ee05c48f37.gif
+
+
+GET /w/a001567d-assets/images/loading_black-7c085c338e536db4bfda65ee05c48f37.gif undefined
+Host: v.cdn.vine.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://vine.co/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+Priority: u=5, i
+
+
+
+
+
+https://v.cdn.vine.co/w/a001567d-assets/images/frowny.svg
+
+GET /w/a001567d-assets/images/frowny.svg undefined
+Host: v.cdn.vine.co
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Referer: https://vine.co/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=4, i
+
+
+
+
+
+https://archive-api.vineapp.com/
+
+Potentially existed to keep vine backend up ???
